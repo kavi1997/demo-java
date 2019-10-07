@@ -10,7 +10,7 @@
   <build>
   
  
-    <finalName>test</finalName>
+    
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
