@@ -30,8 +30,7 @@
 		</executions>
 	</plugin>
   </plugins>
- </build>
-  <build>
+ 
     <finalName>demo</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
